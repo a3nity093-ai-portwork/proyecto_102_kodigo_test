@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+joblib
+scikit-learn==1.9.1
+xgboost>=2.1.0
+pandas>=3.0.0
+numpy>=2.0.0
+scipy>=1.18.0
+contourpy>=1.4.0
